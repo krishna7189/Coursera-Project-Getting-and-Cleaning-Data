@@ -1,4 +1,4 @@
-Test-Repo
+test
 =========
 
 Just to check
